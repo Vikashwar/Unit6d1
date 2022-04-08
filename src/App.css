@@ -1,0 +1,14 @@
+.nameh1{
+  text-align: center;
+}
+img{
+  width: 300px;
+  height: 250px;
+  border: 10px double rgba(43, 128, 0, 0.59);
+  border-radius: 40px ;
+
+}
+button{
+  background-color: black;
+  color: white;
+}
